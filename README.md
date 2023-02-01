@@ -2,9 +2,11 @@
 
 My Name is David Legarre and I'm a Mathematical Engineer on Data Science by the UPF university. 
 In this GitHub profile is were I store all the projects I'm working I focus mostly on AI and Computer Vision although there are many other side projects I may try from time to time
+I technically have twitter but I barely use it if at all
 
 ## My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-legarre-saavedra)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/LegarreDavid)
 
 ## You Can contact me via
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidlegarre1@gmail.com)
