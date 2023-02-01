@@ -1,4 +1,10 @@
 ### Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/david-legarre-saavedra)
+[![](https://badgen.net/badge//:status/:color?icon=github)](https://al7aro.com)
+
+## You Can contact me via
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al7aro@gmail.com)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DavidLegarre)
 
 <!--
 **DavidLegarre/DavidLegarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
