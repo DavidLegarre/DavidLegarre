@@ -2,6 +2,7 @@
 
 My Name is David Legarre and I'm a Mathematical Engineer on Data Science by the UPF university. 
 In this GitHub profile is were I store all the projects I'm working I focus mostly on AI and Computer Vision although there are many other side projects I may try from time to time
+
 I technically have twitter but I barely use it if at all
 
 ## My Socials
