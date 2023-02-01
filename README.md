@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋
+## My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-legarre-saavedra)
 
 ## You Can contact me via
