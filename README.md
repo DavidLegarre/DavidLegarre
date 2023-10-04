@@ -9,8 +9,6 @@ Now I'm focused on fullstack development mainly in JavaScript so that I can unde
 ## My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-legarre-saavedra)
 
-I technically have twitter but I barely use it if at all:
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/LegarreDavid)
 
 ## You Can contact me via
