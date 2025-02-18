@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm David Legarre, a Mathematical Engineer specialized in Data Science from Universitat Pompeu Fabra (UPF). My work revolves around Artificial Intelligence, Machine Learning, and Computer Vision, but I also explore side projects in different areas of tech.
 
 Now I'm focused on fullstack development mainly in JavaScript so that I can understand better how most apps work and practicing other progamming languages.
 
-What You'll Find Here
+## 🚀 What You'll Find Here
 This GitHub serves as a collection of my AI and data-driven projects, including:
 
 * Machine Learning Models for real-world applications
